@@ -1,0 +1,6 @@
+resources\Util.class
+pojo\ReqPlaceData.class
+stepDefination\placeSteps.class
+resources\TestDataBuild.class
+pojo\LocationChild.class
+cucumber\Options\TestRunner.class
