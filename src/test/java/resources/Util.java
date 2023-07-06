@@ -22,6 +22,7 @@ public class Util {
 		Properties prop = new Properties();
 		prop.load(file);
 		return prop.getProperty(key);
+		//test automation
 	}
 
 	public RequestSpecification setup() throws IOException {
